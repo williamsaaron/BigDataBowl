@@ -1,2 +1,4 @@
 
 .DS_Store
+ResultsData/*
+.ipynb_checkpoints
